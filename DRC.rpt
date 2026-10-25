@@ -1,0 +1,21 @@
+** Drc report for Macropad.kicad_pcb **
+** Created on 2026-08-28T15:44:30 **
+** Report includes: Errors, Warnings **
+
+** Found 1 DRC violations **
+[lib_footprint_mismatch]: Footprint "PinSocket_1x04_P2.54mm_Vertical" stimmt nicht mit Kopie in Bibliothek "Connector_PinSocket_2.54mm" überein.
+    Local override; warning
+    @(57.8125 mm, 68.3100 mm): Footprint J1
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
